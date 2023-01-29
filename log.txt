@@ -1,2 +1,4 @@
 Fix issue in Y [YXfukn] line 5.1
 Refactor codebase with Z [Bas5Eu] line 6.2
+Update documentation [6bo4OV] line 9.2
+Update documentation [6bo4OV] line 9.3
